@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Approve">a14e09730afcf110e00f32573daa2136</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Approve</label>
+        <location>footer</location>
+        <name>Approve</name>
+        <order>20</order>
+        <parent>e14e09731efcf110af0a83a30f808735</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:21</sys_created_on>
+        <sys_id>ad4e0973f8fcf110b91fe936f84ea833</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ad4e0973f8fcf110b91fe936f84ea833</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:21</sys_updated_on>
+        <table>x_967306_kaushal_0_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad4e0973f8fcf110b91fe936f84ea833"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>TO</name>
+        <notification display_value="Time off Submitted">2d4e09737ffcf1103a18bf46f5a81158</notification>
+        <route display_value="Time Off Request WS">f94e097314fcf1109f660aea0e5d9fc7</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:03</sys_created_on>
+        <sys_id>214e09734afcf11003dcb4e21ea98f58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TO</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_214e09734afcf11003dcb4e21ea98f58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:03</sys_updated_on>
+    </sys_notification_workspace_content>
+</record_update>

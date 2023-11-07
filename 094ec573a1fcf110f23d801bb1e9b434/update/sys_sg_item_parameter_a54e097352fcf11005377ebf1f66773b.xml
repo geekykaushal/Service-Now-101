@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Request end_date</name>
+        <parent>a94e0973f1fcf110f047c4a115f86a37</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:19</sys_created_on>
+        <sys_id>a54e097352fcf11005377ebf1f66773b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request end_date</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_a54e097352fcf11005377ebf1f66773b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:19</sys_updated_on>
+        <type>datetime</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">e94e0973cffcf11073a2114ad6aba22a</item_parameter>
+        <screen display_value="Time Off Requests">294e0973aafcf1103c5da46da2886236</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:22:58</sys_created_on>
+        <sys_id>694e097312fcf1103c02ff26d61b141d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e94e0973cffcf11073a2114ad6aba22a</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_694e097312fcf1103c02ff26d61b141d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:22:58</sys_updated_on>
+        <ui_parameter display_value="URL">254e0973e5fcf11099641a8a5e9d5322</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

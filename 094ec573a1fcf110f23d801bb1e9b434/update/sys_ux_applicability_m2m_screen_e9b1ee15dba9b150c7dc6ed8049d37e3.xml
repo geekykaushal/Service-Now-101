@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">69b1ee15a3a9b15026ab104e10734dec</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">29b1ee1560a9b1500bd75699285322e3</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-27 06:49:40</sys_created_on>
+        <sys_id>e9b1ee15dba9b150c7dc6ed8049d37e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_e9b1ee15dba9b150c7dc6ed8049d37e3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-27 06:49:40</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

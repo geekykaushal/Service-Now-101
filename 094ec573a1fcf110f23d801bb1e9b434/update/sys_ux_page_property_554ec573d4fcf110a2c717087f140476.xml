@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_dynamic_route_config</description>
+        <name>routeConfigId</name>
+        <page display_value="KAUSHAL APP ENGINE TEST workspace">bd4e097380fcf110c92fee0cacd1e2f6</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>554ec573d4fcf110a2c717087f140476</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_ux_page_property_554ec573d4fcf110a2c717087f140476</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:02</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_967306_kaushal_0.bd4e097380fcf110c92fee0cacd1e2f6.root.routeConfigId</unique_name>
+        <value>554ec573e5fcf110a54ab85143925b9a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=554ec573d4fcf110a2c717087f140476"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout">
+    <sys_ux_form_action_layout action="INSERT_OR_UPDATE">
+        <action_config display_value="Time Off Record Actions">1d4ec57375fcf110dbcab5bd447729cc</action_config>
+        <active>true</active>
+        <description/>
+        <name>Time Off Record</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:19</sys_created_on>
+        <sys_id>554ec57327fcf1102dd56bf29bbd5c8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Record</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_554ec57327fcf1102dd56bf29bbd5c8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:19</sys_updated_on>
+        <table>x_967306_kaushal_0_request</table>
+    </sys_ux_form_action_layout>
+</record_update>

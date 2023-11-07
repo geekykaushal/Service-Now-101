@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reject">e14e097360fcf1102a814e6bc3ed5d3e</button>
+        <item_parameter display_value="Reject reason">ed4e09733ffcf110b21154d31312183e</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:22:57</sys_created_on>
+        <sys_id>614e09736bfcf110b6641bb336aada3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ed4e09733ffcf110b21154d31312183e</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_614e09736bfcf110b6641bb336aada3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:22:57</sys_updated_on>
+        <ui_parameter display_value="Reason for rejection">2d4e097314fcf11015fc407dee3efe3e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

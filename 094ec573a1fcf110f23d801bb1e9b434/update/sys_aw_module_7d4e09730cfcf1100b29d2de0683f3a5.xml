@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home</icon>
+        <id>dashboard</id>
+        <label>Dashboard</label>
+        <order>1000</order>
+        <roles>b14e0973f3fcf1109d64cb6c0b70fef8,fd4e097397fcf110782f95627eab39f5</roles>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d4e09730cfcf1100b29d2de0683f3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_aw_module_7d4e09730cfcf1100b29d2de0683f3a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:19</sys_updated_on>
+        <toolbar_button display_value="Dashboard Button">b14e0973e8fcf1108926f140b187f6a7</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Time Off Request WS">3d4e097375fcf1106c212ae2b1ac9ba6</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=7d4e09730cfcf1100b29d2de0683f3a5"/>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="694ec57399fcf1105f43edbc9e4fadde" sys_domain="global" table="x_967306_kaushal_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 12:23:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e54ec5735dfcf1107786541ead9867dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_967306_kaushal_0_request" name="x_967306_kaushal_0_request" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">694ec57399fcf1105f43edbc9e4fadde</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_967306_kaushal_0_request" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">a54ec5734dfcf110558176ee68a6b4de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 12:23:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 12:23:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>254ec573f3fcf11039dc366d75a995dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_967306_kaushal_0_request" name="x_967306_kaushal_0_request" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">694ec57399fcf1105f43edbc9e4fadde</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_967306_kaushal_0_request" sys_domain="global" view="11739aa0f98211108c8bd16244dfe72b">214ec57390fcf1103725ae3d01b613de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 12:23:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_967306_kaushal_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 12:23:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>694ec57399fcf1105f43edbc9e4fadde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_967306_kaushal_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+            <sys_update_name>sys_ui_form_sections_694ec57399fcf1105f43edbc9e4fadde</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 12:23:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">11739aa0f98211108c8bd16244dfe72b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

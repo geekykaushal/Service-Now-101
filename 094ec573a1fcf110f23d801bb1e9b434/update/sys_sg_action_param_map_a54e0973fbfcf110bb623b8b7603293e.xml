@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">254e09730afcf1107994c6e3ed84f73d</button>
+        <item_parameter display_value="Request start_date">294e097347fcf1105ed5a03ead65633c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:17</sys_created_on>
+        <sys_id>a54e0973fbfcf110bb623b8b7603293e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>294e097347fcf1105ed5a03ead65633c</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a54e0973fbfcf110bb623b8b7603293e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:17</sys_updated_on>
+        <ui_parameter display_value="Start date">e94e097374fcf110def8c6411e00c93c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

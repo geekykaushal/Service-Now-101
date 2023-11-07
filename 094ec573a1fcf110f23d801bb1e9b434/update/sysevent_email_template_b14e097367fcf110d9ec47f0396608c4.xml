@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_967306_kaushal_0_request</collection>
+        <email_layout/>
+        <message><![CDATA[BEGIN:VCALENDAR
+PRODID:-//Service-now.com//Outlook 11.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:CANCEL
+BEGIN:VEVENT
+ATTENDEE;ROLE=REQ-PARTICIPANT;RSVP=FALSE:MAILTO:${to}
+DTSTART:${dtstart}
+DTEND:${dtend}
+UID:${sys_id}
+DTSTAMP:${dtstamp}
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+SUMMARY:${time_off_reason}
+END:VEVENT
+END:VCALENDAR]]></message>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>timeoff.calendar.integration.remove</name>
+        <sms_alternate/>
+        <subject>Remove time off into an outlook calendar</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:09</sys_created_on>
+        <sys_id>b14e097367fcf110d9ec47f0396608c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>timeoff.calendar.integration.remove</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sysevent_email_template_b14e097367fcf110d9ec47f0396608c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:09</sys_updated_on>
+        <sys_version>1</sys_version>
+    </sysevent_email_template>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Record">dd4ec573d8fcf110971b820cfdf1d8cc</macroponent>
+        <name>Decline Success </name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Time Off Request {0} has been declined",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[
+            /**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const number = api.data.gform.nowRecordCommonHeader.primaryItem.displayValue;
+    const content = await helpers.translate('Time Off Request {0} has been declined', number);
+        api.emit('NOW_UXF_PAGE#ADD_NOTIFICATIONS', {
+        items: [{
+            id: 'sev-1',
+            status: 'info',
+            icon: 'info-circle-outline',
+            content,
+            action: {
+                type: 'dismiss'
+            }
+        }]
+    });
+
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:22:58</sys_created_on>
+        <sys_id>9d4ec573f5fcf110b1ae84b68508e9a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline Success</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_ux_client_script_9d4ec573f5fcf110b1ae84b68508e9a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:22:58</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Decline">214e09730dfcf110068bea53a85f0d97</action_payload_definition>
+        <label>Decline  Related List</label>
+        <model display_value="Related List">d91731a9534723003eddddeeff7b121c</model>
+        <payload_map>EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:06</sys_created_on>
+        <sys_id>ed4e0973f3fcf110593275d9b778e691</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline  Related List</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_ed4e0973f3fcf110593275d9b778e691</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:06</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

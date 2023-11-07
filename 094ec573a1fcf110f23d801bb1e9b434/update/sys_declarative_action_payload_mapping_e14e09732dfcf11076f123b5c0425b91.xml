@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="List decline modal">e14e097377fcf1100e991a33d8967497</action_payload_definition>
+        <label>List open decline modal List</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <payload_map>fields@table={{table}}^route=list_modal_page^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 12:23:08</sys_created_on>
+        <sys_id>e14e09732dfcf11076f123b5c0425b91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List open decline modal List</sys_name>
+        <sys_package display_value="KAUSHAL APP ENGINE TEST" source="x_967306_kaushal_0">094ec573a1fcf110f23d801bb1e9b434</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KAUSHAL APP ENGINE TEST">094ec573a1fcf110f23d801bb1e9b434</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_e14e09732dfcf11076f123b5c0425b91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 12:23:08</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>
